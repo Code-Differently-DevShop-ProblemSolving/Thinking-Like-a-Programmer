@@ -13,18 +13,18 @@
     - [Computational Thinking](#computational-thinking)
       - [Computational Thinking: Key Components](#computational-thinking-key-components)
   - [Think Like A Programmer Book](#think-like-a-programmer-book)
-  - [Resources](#resources)
+  - [Next Steps](#next-steps)
 
 
 ## Schedule
 
 |Estimated Time | Description | Size | Notes |
 | - | - | - | - |
-| 0:00 - 0:15 | Introduction/Objectives | Team | |
-| 0:15 - 0:20 | About | Team | |
-| 0:20 - 1:00 | Programmatic/Computational Thinking | Team | |
-| 2:55 - 3:00 | Think Like A Programmer Book | Team |  |
-| 2:55 - 3:00 | Resource(s) | Team |  |
+| 0:00 - 0:10 | Introduction/Objectives | Team | |
+| 0:10 - 0:15 | About | Team | |
+| 0:15 - 1:00 | Programmatic/Computational Thinking/Key Components | Team | |
+| 1:00 - 1:05 | Think Like A Programmer Book | Team |  |
+| 1:05 - 1:10 | Resource(s) | Team |  |
 ## Objectives
 - Think Like A Programmer: Programmatic/Computational Thinking
 - Think Like A Programmer book.
@@ -70,12 +70,10 @@ Explanation Below Per [G4G](https://www.geeksforgeeks.org/how-to-write-a-pseudo-
       - In Pseudo Code their is extra need of maintain documentation.
       - In Pseudo Code their is no proper standard very company follow their own standard for writing the Pseudo Code.
 
-
 ## Think Like A Programmer Book
 Now that you have a foundational understanding of what programmatic thinking is, a good follow up would be to read the book posted below. This is a great first read and eye opener for any all developers, new and old, as it provides great context on programmatic thinking.You can find a free pdf version of it at this [link](http://www.r-5.org/files/books/computers/overviews/patterns/V_Anton_Spraul-Think_Like_a_Programmer-EN.pdf)
 
 ![image](https://user-images.githubusercontent.com/54545904/111060357-b7d10880-8472-11eb-8173-776781e618ef.png)
 
-
-## Resources
+## Next Steps
 Now that you are familiar with computational/programmatic thinking, the next step would be to understand problem solving and its importance in coding. Please click here to be directed to the [Problem Solving Module]()
